@@ -78,4 +78,7 @@ theme: hexo-theme-miho-master
 # Deployment项目部署
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repository: https://github.com/kakatiger/kakatiger.github.io
+  
+
